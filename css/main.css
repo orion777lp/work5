@@ -1,0 +1,57 @@
+/*SPECIFICATION*/
+.body{
+
+}
+
+.login__form{
+    border-radius: 5px;
+    border: 0px solid #4e555b;
+    box-shadow: 2px 2px 7px rgba(0, 0, 0, .3);
+    padding: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+
+/*PREFIX*/
+.padding__25{
+    padding: 25px;
+}
+
+.padding__top_small{
+    padding-top: 10px;
+}
+
+.padding__top_mid{
+    padding-top: 15px;
+}
+
+.padding__top_big{
+    padding-top: 20px;
+}
+
+.margin__25{
+    margin: 25px;
+}
+
+.margin__top_small{
+    margin-top: 10px;
+}
+
+.margin__top_mid{
+    margin-top: 15px;
+}
+
+.margin__top_big{
+    margin-top: 20px;
+}
+
+.hide{
+    display: none;
+}
+
+/*TEST*/
+.test_border{
+    border: solid red 1px;
+}
